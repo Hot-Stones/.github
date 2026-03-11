@@ -1,6 +1,6 @@
 # 🎮 Proyecto: [HotStones]
 
-> [!INFO]
+> [INFO]
 > **Estado:** 🏗️ En Desarrollo (Fase de Prototipado)
 > **Motor:** Godot Engine
 > **Última Modificación:** [[2026-03-11]]
