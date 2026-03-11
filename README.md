@@ -1,20 +1,35 @@
-🎮 [HotStones]
-Juego desarrollado en Godot con ápices de JRPG y turn-based combat, con una narrativa que sigue una historia de principio a fin
+# 🎮 Proyecto: [HotStones]
 
-👥 El Equipo
-Estamos orgullosos de presentar al equipo detrás de este desarrollo:
+> [!INFO]
+> **Estado:** 🏗️ En Desarrollo (Fase de Prototipado)
+> **Motor:** Godot Engine
+> **Última Modificación:** [[2026-03-11]]
 
-💡 Dirección Creativa e Ideas: [Nombre 1] y [Nombre 2]. Responsables de la narrativa, mecánicas y el diseño del mundo.
+---
 
-🎨 Arte y Visuales: [Nombre]. Encargado de la creación de sprites, entornos 2D/3D y la estética general.
+## 👥 Nuestro Equipo
+Este es el grupo de trabajo para este desarrollo 2D/3D:
 
-🎶 Música y Sonido: [Nombre]. Compositor de la banda sonora y diseño de efectos sonoros.
+### 💡 Dirección Creativa e Ideas
+* **[Oscar]** - Diseño de mecánicas y mundo.
+* **[Fran]** - Narrativa y diseño de niveles.
 
-💻 Programación: [Vuestros Nombres]. Encargados de dar vida a las ideas mediante GDScript en Godot.
+### 🎨 Arte y Estética
+* **[Fran?]** - Creación de sprites, modelos y texturas.
 
-🛠️ Tecnologías
-Motor: Godot Engine (Forward+ / Compatibility).
+### 🎶 Audio y Sonido
+* **[Chupapitos]** - Composición musical y efectos de sonido (SFX).
 
-Control de versiones: Git & GitHub.
+### 💻 Programación
+* **[Comunista24]** - Arquitectura del juego y GDScript.
+* **[Pixaisa]** - Sistemas y lógica telemática.
 
-Comunicación: [Ej: Discord/Telegram] para el trabajo telemático
+---
+
+## 🛠️ Herramientas de Trabajo
+- [ ] **Motor:** [[Godot]]
+- [ ] **Control de Versiones:** GitHub Desktop
+- [ ] **Comunicación:** Discord / Github Projects
+- [ ] **Planificación:** Obsidian (GDD interno)
+---
+#proyectos #videojuegos #godot #equipo
